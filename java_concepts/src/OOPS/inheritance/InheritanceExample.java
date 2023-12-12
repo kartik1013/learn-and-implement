@@ -1,6 +1,6 @@
 package OOPS.inheritance;
 
-public class Main {
+public class InheritanceExample {
     public static void main(String args[]) {
         Employee employee1 = new Employee(1, "Arun kumar", "arun_kumar@gamil.com");
         employee1.work();
